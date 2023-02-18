@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 # Live view:
-Website is hosted [here](https://nature-tour-project-lm9ndpv60-prettylegit0101.vercel.app/)
+Website is hosted [here](https://nature-tour-project.vercel.app/)
 
 ## Getting Started
 
